@@ -1,1 +1,4 @@
 node_modules
+
+# Next files only needed at build time # 
+.next
