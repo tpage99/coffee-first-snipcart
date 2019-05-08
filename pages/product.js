@@ -14,7 +14,7 @@ class Product extends React.Component {
     <div>
       <Head>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
-        <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="YjdiNWIyOTUtZTIyMy00MWMwLTkwNDUtMzI1M2M2NTgxYjE0" id="snipcart"></script>
+        <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="OWY2ZmMxY2ItODU5My00YzI2LThkN2ItYjg5MjU1YzkwNWI1NjM2OTI4NTgzNDg4NzA3ODkw" id="snipcart"></script>
         <link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
         <link href="/static/main.css" rel="stylesheet" />
         <meta name="title" content={"Peaky Blinder's " + this.getProduct().name} />

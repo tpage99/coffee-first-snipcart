@@ -17,8 +17,10 @@ npm install
 ## Step 3. to run locally
 
 ```sh
-npm run
+npm start
 ```
+
+this will set up on http://localhost:3000 by default
 
 ## Step 4. Be awesome
 
